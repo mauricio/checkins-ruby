@@ -1,0 +1,3 @@
+class TvShow < Resource
+
+end
